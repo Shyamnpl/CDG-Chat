@@ -1,0 +1,17 @@
+{
+  "name": "all-in-one-ai-js",
+  "version": "1.0.0",
+  "description": "A simple AI chat app.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "openai": "^6.6.0"
+  }
+}
